@@ -1,9 +1,16 @@
 ---
-
 layout: post
-
-title: opensource
-
+title: "OpenSource"
+date: 2017-08-14 22:55:45
+image: 'http://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1502757949/o-sombra_xyw4wq.jpg'
+description: 노재열, 박지용, 변성훈, 박수민 in Raspmusic.
+category: 'css'
+tags:
+- opensoruce
+- ict
+- blog
+twitter_text: 노재열, 박지용, 변성훈, 박수민 in Raspmusic.
+introduction: This is opensource for park_ji_yong.
 ---
 
 
