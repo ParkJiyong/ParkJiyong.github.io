@@ -10,7 +10,7 @@ introduction: Product in the first year
 
 Execution results
 ---
-![Main display](/assets/img/main.png){: width="100" height="100"}
+![Main display](/assets/img/main.png)(: width="100" height="100")
 **Game that can earn money will be added.**
 
 
