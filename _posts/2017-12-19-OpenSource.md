@@ -11,7 +11,7 @@ tags:
 - blog
 - github
 twitter_text: 박지용, 박수민, 노재열, 변성훈 in Raspmusic.
-introduction: welcome to Raspmusic blog
+introduction: Product in first year
 ---
 
 
