@@ -10,9 +10,9 @@ introduction: Product in the first year
 
 Execution results
 ---
-![Main display](./assets/img/main.png)
+![Main display](/assets/img/main.png)
 **Game that can earn money will be added.**
-![Shop display](./assets/img/shop.png)
+![Shop display](/assets/img/shop.png)
 **Users can buy some furnitures here.**
 **More furnitures will be added.**
 **Users can choose color themselves by RGB table.**
