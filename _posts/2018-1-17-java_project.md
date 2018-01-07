@@ -8,6 +8,10 @@ twitter_text: Java Product
 introduction: Product in the first year
 ---
 
+
+***
+code below
+
 First Java class
 ---
 
@@ -271,6 +275,8 @@ public class myproject extends JPanel {
 ```
 
 Second Java class
+---
+
 ```
 package project;
 
@@ -579,6 +585,8 @@ public class myprojectshop extends JPanel {
 ```
 
 Third Java class
+---
+
 ```
 package project;
 
