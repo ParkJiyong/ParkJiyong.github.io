@@ -2,7 +2,7 @@
 layout: post
 title: "opensource!"
 date: 2017-12-19 19:28:08
-image: 'https://lh4.googleusercontent.com/qSq_l77967PHr4FrbWEW8j-V5huioMnquD-eH1LzAqT48UEnYB3W7AkMbhHkjbSqB11yzK09Y8ZkJIgqJK60wmBrAj99yHLSl0f2ic_tcrP0lWTE3Y4gstaG5vhC5TBd-o1yrtiD'
+image: 'http://cfile3.uf.tistory.com/image/25772B3958DDDFCD2681BC'
 description: 박지용, 박수민, 노재열, 변성훈 in Raspmusic.
 category: 'Portfolio'
 tags:
