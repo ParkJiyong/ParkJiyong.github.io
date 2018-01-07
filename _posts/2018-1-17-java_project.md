@@ -12,15 +12,21 @@ Execution results
 ---
 ![Main display](/assets/img/main.png)
 **Game that can earn money will be added.**
+
+
 ![Shop display](/assets/img/shop.png)
 **Users can buy some furnitures here.**
 **More furnitures will be added.**
 **Users can choose color themselves by RGB table.**
-![After display](./assets/img/after.png)
-![Move display](./assets/img/move.png)
+
+
+![After display](/assets/img/after.png)
+
+
+![Move display](/assets/img/move.png)
 **Users can move and replace the furnitures.**
 
-
+<center><img src="/assets/img/main.png" width="300" height="300"></center>
 
 ***
 **code below**
