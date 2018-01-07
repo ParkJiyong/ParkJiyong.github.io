@@ -4,6 +4,11 @@ title: "Java Product"
 description: Made by PARKJIYONG in hanyang univ.
 image: 'http://cfile2.uf.tistory.com/image/165C6C49500536D0064D5A'
 category: 'Portfolio'
+tags:
+- ict
+- java
+- github
+- portfolio
 twitter_text: Java Product
 introduction: Product in the first year
 ---
