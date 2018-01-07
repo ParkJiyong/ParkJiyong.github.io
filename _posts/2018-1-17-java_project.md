@@ -10,21 +10,23 @@ introduction: Product in the first year
 
 Execution results
 ---
-![Main display](/assets/img/main.png)
-**Game that can earn money will be added.**
+![Main display](/assets/img/main.png)<br />
+**Game that can earn money will be added.**<br /><br />
 
 
-![Shop display](/assets/img/shop.png)
-**Users can buy some furnitures here.
-More furnitures will be added.
-Users can choose color themselves by RGB table.**
+![Shop display](/assets/img/shop.png)<br />
+**Users can buy some furnitures here.**<br />
+**More furnitures will be added.**<br />
+**Users can choose color themselves by RGB table.**
+<br /><br />
 
 
 ![After display](/assets/img/after.png)
+<br /><br />
 
 
-![Move display](/assets/img/move.png)
-**Users can move and replace the furnitures.**
+![Move display](/assets/img/move.png)<br />
+**Users can move and replace the furnitures.**<br /><br /><br /><br />
 
 
 
