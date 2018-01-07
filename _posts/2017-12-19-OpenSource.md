@@ -8,8 +8,8 @@ category: 'Portfolio'
 tags:
 - ict
 - opensource
-- blog
 - github
+- portfolio
 twitter_text: 박지용, 박수민, 노재열, 변성훈 in Raspmusic.
 introduction: Product in first year
 ---
