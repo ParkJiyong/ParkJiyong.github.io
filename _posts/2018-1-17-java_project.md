@@ -10,7 +10,7 @@ introduction: Product in the first year
 
 Execution results
 ---
-![Main display](/assets/img/main.png)
+![Main display](/assets/img/main.png){: width="300" height="300")
 **Game that can earn money will be added.**
 
 
@@ -26,7 +26,7 @@ Execution results
 ![Move display](/assets/img/move.png)
 **Users can move and replace the furnitures.**
 
-<center><img src="/assets/img/main.png" width="300" height="300"></center>
+
 
 ***
 **code below**
