@@ -13,3 +13,9 @@ twitter_text: Future Report
 introduction: Report in the first year
 ---
 
+
+Market report about A.I
+---
+</br>
+
+[Report]()
